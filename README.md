@@ -18,3 +18,9 @@ Admin panel: Admin can add new topic with quiz and word puzzle game, can add new
     ii- USER: Custom search, Dynamic search, Book a Table, Restaurant interior, Scan Menu.
     iii- RESTAURANT MANAGER: Register their restaurant, Accept / Decline the reservations, Seat and time availability status
     iv- ADMIN: Provide restaurant information, Save customer login details, Save restaurant details, Generate menu using QR code.
+
+
+***VOICE/VIDEO CALL APP USING FLUTTER:*** A mobile application using third party sdk (agora) that aims to connect two people either on voice call or video call.
+
+**Features Include:** connect call, cancel call, mute/unmute, volume up/down, speaker on,off. 
+  
