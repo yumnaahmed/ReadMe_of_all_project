@@ -24,14 +24,14 @@ Admin panel: Admin can add new topic with quiz and word puzzle game, can add new
 <br/>
 <br/>
 <br/>
-***<ins>4- FREELANCING APP USING FLUTTER And FIREBASE:</ins>*** A mobile application that aims to remake a freelancing app having to ensure job opprtunities to needy people.An app having two panels admin and user. Admin can be user and user can be admin means a user can post a job for hiring and an admin can bid to other's user job vacancy. 
+***<ins>4- FREELANCING APP USING FLUTTER AND FIREBASE:</ins>*** A mobile application that aims to remake a freelancing app having to ensure job opprtunities to needy people.An app having two panels admin and user. Admin can be user and user can be admin means a user can post a job for hiring and an admin can bid to other's user job vacancy. 
 
 **Features Include:** Register, Custom login, Post Job, Bid for job, Update profile, Whatsapp chatting, Change password,Can See List of all Jobs posted by others, Can see list of all jobs posted by him/her self, Can see who bids most, Accept/Reject bid.
 <br/>
 <br/>
 <br/>
 ***<ins>5- GOOGLE MAP APP USING FLUTTER:</ins>*** A mobile application that use to provide mark destination location and provide direction to that specific location.
-you can also mark pointer and get address, you can also.
+you can also mark pointer and get address.
 
 **Features Include:** Mark pointer and get address,See distance between your location and destination location, Draw polygons/circle using latitude and logitude and get alert message if you mark you location outside polygons/circle.
 <br/>
